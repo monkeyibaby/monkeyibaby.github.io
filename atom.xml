@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tang&#39;s Blog</title>
+  
+  <subtitle>记录学习、生活。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-06-19T07:04:07.806Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Tang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sun_tang</title>
+    <link href="http://yoursite.com/2019/06/19/sun-tang/"/>
+    <id>http://yoursite.com/2019/06/19/sun-tang/</id>
+    <published>2019-06-19T07:04:07.000Z</published>
+    <updated>2019-06-19T07:04:07.806Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
