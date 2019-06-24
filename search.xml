@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[sun_tang]]></title>
-    <url>%2F2019%2F06%2F19%2Fsun-tang%2F</url>
-    <content type="text"></content>
+    <title><![CDATA[博客记录]]></title>
+    <url>%2F2019%2F06%2F24%2F%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95%2F</url>
+    <content type="text"><![CDATA[引言 博客对于程序员来说就是他们在网络世界的一个小家； 每个IT人心中都想拥有一个属于自己的小家，就想一对恋人想有一个自己的小房子一样。]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Next</tag>
+        <tag>Github</tag>
+      </tags>
   </entry>
 </search>
